@@ -12,5 +12,9 @@ Con `nome_sorgente.c` e `nome_eseguibile` che devono essere sostituiti in base a
 
 ## Argomenti
 
-1. [selezione](selezione): if-else (17/09), if da solo e if con else if (18/09)
-1. [iterazione](iterazione): while (24/09), for (25/09)
+- 17/09 [if-else](selezione/ifelse.c)
+- 18/09 [if da solo](selezione/if.c) e [if con else if](selezione/elseif.c)
+- 24/09 [while](iterazione/while.c)
+- 25/09 [for](iterazione/for.c)
+- 01/10 [do-while](iterazione/dowhile.c)
+- 02/10 esercizio: [indovina un numero](esercizi/indovina_numero.c)
