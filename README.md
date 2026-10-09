@@ -18,3 +18,5 @@ Con `nome_sorgente.c` e `nome_eseguibile` che devono essere sostituiti in base a
 - 25/09 [for](iterazione/for.c)
 - 01/10 [do-while](iterazione/dowhile.c)
 - 02/10 esercizio: [indovina un numero](esercizi/indovina_numero.c)
+- 08/10 esercizio: [calcola π](esercizi/calcola_pigreco.c)
+- 09/10 esercizio: [valida una data](esercizi/valida_data.c)
