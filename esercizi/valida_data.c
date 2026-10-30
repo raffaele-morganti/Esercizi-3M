@@ -17,9 +17,9 @@ int main(){
     }else if(day <= 0 || day > 31){
         printf("Il giorno deve essere compreso tra 1 e 31.\n");
     }else if(day == 31 && (month == 4 || month == 6 || month == 9 || month == 11)){
-        printf("Il mese %d ha massimo 30 giorni.\n", month);
+        printf("Il mese %02d ha massimo 30 giorni.\n", month);
     }else if(day > 29 && month == 2){
-        printf("Il mese %d ha massimo 29 giorni.\n", month);
+        printf("Il mese %02d ha massimo 29 giorni.\n", month);
     }else if(day == 29 && month == 2 && (year % 4 != 0 || (year % 100 == 0 && year % 400 != 0))){
         printf("L'anno %d non è bisestile.\n", year);
     }else{

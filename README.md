@@ -20,3 +20,5 @@ Con `nome_sorgente.c` e `nome_eseguibile` che devono essere sostituiti in base a
 - 02/10 esercizio: [indovina un numero](esercizi/indovina_numero.c)
 - 08/10 esercizio: [calcola π](esercizi/calcola_pigreco.c)
 - 09/10 esercizio: [valida una data](esercizi/valida_data.c)
+- 22/10 [funzione minimo](funzioni/minimo.c)
+- 30/10 [funzione scambia](funzioni/scambia.c)
