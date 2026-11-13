@@ -29,3 +29,5 @@ Con `nome_sorgente.c` e `nome_eseguibile` che devono essere sostituiti in base a
 - 30/10 [funzione scambia](funzioni/scambia.c)
 - 05/11 esercizio: [tabella temperature](esercizi/tab_temperature.c)
 - 06/11 esercizio: [conversione temperature](esercizi/conv_temperature.c)
+- 12/11 esercizio: [fattoriale](esercizi/fattoriale.c)
+- 13/11 [vettore o array](vettori/voti.c)
